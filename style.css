@@ -1,0 +1,15 @@
+.heart {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 700px;
+}
+h1 {
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+}
+.ending {
+  font-size: 30px;
+}
